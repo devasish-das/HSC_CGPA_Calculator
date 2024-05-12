@@ -1,0 +1,96 @@
+body {
+    background-color: #E1F0DA;
+}
+table, td, th {
+    border: 1px solid;
+  }
+table{
+    
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #D0E7D2;
+    text-align: center;
+   
+    
+}
+.fullflex{
+    display:flex;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    background-color: #99BC85;
+    font-family: "Grenze Gotisch", cursive;;
+    
+}
+h3{
+    text-align: center;
+    background-color: #BFD8AF;
+}
+h2{
+    padding-left: 11px;
+    background-color: #a3b18a;
+    width: 15%;
+    padding: right;
+}
+#coursetitile{
+    width: 200px;
+    background-color: #FFE5E5;
+}
+button{
+    background-color: #99BC85;
+    width: 90px;
+    border-radius: 8px;     
+}
+.table1{
+    background-color: #D4E7C5;
+    flex: 33%;
+}
+.table10
+{
+    width: 431px;
+}
+.table2{
+    background-color: #99BC85;
+    flex: 20%;
+    text-align: center;
+}
+.table20{
+    width: 260px;
+
+}
+.table3{
+    background-color: #D4E7C5;
+    flex: 47%;
+    text-align: center;
+
+}
+.t3{
+    background-color: #FFE5E5;
+    flex: 35%;
+}
+.t4
+{
+    background-color: #e63946;
+    flex: 12%;width: 500px;
+    
+}
+
+.flex60{
+    flex: 60%;
+}
+.flex40{
+    flex: 40%;
+    text-align: end;
+
+}
+.aling{
+    text-align: center;
+}
+.full{
+    width: 100%;
+}
+select{
+    background-color: #D4E7C5;
+    width: 175px;
+}
